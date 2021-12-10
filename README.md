@@ -1,2 +1,1 @@
-# clase24
-a
+# Box Class
